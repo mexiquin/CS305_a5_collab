@@ -2,7 +2,7 @@
 ## Collaborating with other students in assignment 5 for CS305
 
 # What will be done in this repo
-To make things a little more interesting, this project will simply host "hello world" code for any language of your choosing!
+To make things a little interesting, this project will simply host "hello world" code for any language of your choosing!
 
 Java, C++, Python, Bash, MIPS Assembly, its totally up to you!
 
