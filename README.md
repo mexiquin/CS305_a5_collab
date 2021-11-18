@@ -12,3 +12,5 @@ Just submit code that simply prints the phrase "hello world" to stdout in your l
 If you want, you can even change the language of the phrase!
 
 "Bonjour le Monde", "こんにちは世界", and "你好,世界" Are also totally valid.
+
+This project will be under the permissive MIT license. You are permitted to do, basically, whatever you want with this source code.
