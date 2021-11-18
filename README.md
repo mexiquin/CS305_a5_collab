@@ -1,14 +1,18 @@
 # CS305_a5_collab
-## Collaborating with other students in assignment 5 for CS305
 
-# What will be done in this repo
+## Description
 To make things a little interesting, this project will simply host "hello world" code for any language of your choosing!
 
 Java, C++, Python, Bash, MIPS Assembly, its totally up to you!
 
-Just submit a line code to the __CONTRIBUTING__ file would simply print the phrase "hello world" to stdout in your language of choice. Then include your name. If you are a _contributor_ make sure to denote that when you write your name.
+## What to do
+You will make your additions to the __CONTRIBUTING__ file of this repo. _Each entry will get its own line in the file._ All you have to do is:
 
-for example:
+- Include the name of the language
+- A line of code that would simply print the phrase "hello world" to stdout in your language of choice
+- Include your name. If you are a _contributor_ make sure to denote that when you write your name.
+
+### Examples
 ```
 // non-contributor (aka, you forked the repo)
 C++ - cout << "Hello World" << endl; - Quinton Jasper
