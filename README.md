@@ -27,7 +27,7 @@ If you want, you can even change the language of the phrase!
 
 "Bonjour le Monde", "こんにちは世界", and "你好,世界" are also valid, and is totally up to you if you want to do it.
 
-## Hello World in Different Programming Languages
+## Hello World In Different Programming Languages
 It is clear to see that Hello World programs look much different between programming languages. Syntactically, some are much easier to undertstand than others.
 
 ## Project License
