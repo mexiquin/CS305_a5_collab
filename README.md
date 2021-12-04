@@ -27,5 +27,8 @@ If you want, you can even change the language of the phrase!
 
 "Bonjour le Monde", "こんにちは世界", and "你好,世界" are also valid, and is totally up to you if you want to do it.
 
+## Hello World in Different programming languages
+It is clear to see that Hello World programs look much different between programming languages. Syntactically, some are much easier to undertstand than others.
+
 ## Project License
 This project will fall under the permissive **MIT license**. This license will allow you to, basically, do whatever you want with this source code. You are allowed to share, reproduce, privatize, modify, or commercialize this repo. Just don't expect any warranties or support for any failures!
